@@ -4,18 +4,18 @@
 
 ![](RackMultipart20200729-4-164bjuc_html_60d9b6f0d13776dd.gif)
 
-**junior developer**  **• experienced customer support representative**
+**Apprentice developer**  **• Experienced customer support representative**
 
-**professional summary**
+**Professional Summary**
 
 A reliable,energetic &amp; passionate developer possessing a high awareness of industry issues and trends, particularly regarding thedesign and development of innovative static and dynamic website UI using best practices of coding. Frequent collaboration closely with classmates, Hackathon participants, and other members. Very strong organizational, presentational, communication and problem-solving skills.
 
-**technical skills**
+**Technical Skills**
 
 - HTML5, CSS3, JavaScript, jQuery, Bootstrap, Express.js, React frameworks, Node.js, Git, MongoDB, MySQL, Django, AJAX
 - Microsoft office suite (Word, Excel), Google Suite (Docs, Sheets)
 
-**projects**
+**Projects**
 
 [**Memewars**](https://safe-depths-86355.herokuapp.com/)11/2019
 
@@ -34,19 +34,19 @@ A reliable,energetic &amp; passionate developer possessing a high awareness of i
 - Collaborated with the web-development team to finalize a project using Django and Python.
 - Developed question and answer website targeted at FIU courses and students.
 
-**hackathons**
+**Hackathons**
 
 1. HackFSU 2019 Hackathon
 
 ShellHacks 2019 Hackathon
 
-**education and certifications**
+**Education and Certifications**
 
 2019 Full-Stack Development Certificate | University of Miami 24-Week Coding Bootcamp
 
 Enterprise Design Thinking Practitioner | IBM
 
-**professional experience**
+**Professional Experience**
 
 **Business Office Manager** - Jtda Group Towing &amp; Recovery - Miami, FL 04/2011 – Present
 
